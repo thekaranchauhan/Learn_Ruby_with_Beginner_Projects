@@ -40,9 +40,9 @@ This is a simple to-do list application written in Ruby that allows you to manag
 
 ## Colors
 
-- Green: Success messages
-- Blue: Informational messages
-- Red: Error and task deletion messages
+- <span style="color:green">Green</span>: Success messages
+- <span style="color:blue">Blue</span>: Informational messages
+- <span style="color:red">Red</span>: Errors and task deletion messages
 
 ## File Structure
 
