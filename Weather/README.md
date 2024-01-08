@@ -35,10 +35,6 @@ Make sure you have Ruby installed on your system. You can download it from [http
 
 The Weather App in Ruby follows a simple file structure to organize its components. Below is an overview of the key files:
 
-## 1. `main.rb`
-
-This file serves as the entry point of the application. It initializes the application and triggers the execution of the main logic.
-
 1. **main.rb:** Entry point of the application.
 2. **manager.rb:** Manages user input and interacts with the Weather class.
 3. **application.rb**: Holds the configuration, including the OpenWeatherMap API key.
