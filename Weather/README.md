@@ -1,7 +1,3 @@
----
-Weather App
----
-
 # Weather App in Ruby
 
 Welcome to the Weather App in Ruby! This simple console application allows you to retrieve the current temperature and a 7-day weather forecast for a given city using the OpenWeatherMap API.
