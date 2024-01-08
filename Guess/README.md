@@ -1,8 +1,8 @@
 ---
-Number Guessing Game
+Guess Number
 ---
 
-# Weather App in Ruby
+# Number Guessing Game in Ruby
 
 Welcome to the Number Guessing Game! This simple Ruby application allows players to guess a randomly generated number between 1 and 100.
 
